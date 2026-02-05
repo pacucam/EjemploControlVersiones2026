@@ -16,3 +16,10 @@ r<-0.5
 Area <- pi*r**2
 ```
 
+#Área triángulo
+```{r}
+b<-3
+h<-6
+Area <-(b*h)/2
+```
+
