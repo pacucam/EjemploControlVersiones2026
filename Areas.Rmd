@@ -23,3 +23,10 @@ h<-6
 Area <-(b*h)/2
 ```
 
+#Área rectángulo
+```{r}
+b <- 2
+h <- 7
+Area <- b*h
+```
+
