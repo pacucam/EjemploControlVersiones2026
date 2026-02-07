@@ -30,3 +30,11 @@ h <- 7
 Area <- b*h
 ```
 
+#Área trapecio
+```{r}
+b <- 5
+B <- 10
+H <- 4
+AreaTrapecio <- ((b + B) / 2) * H
+```
+
